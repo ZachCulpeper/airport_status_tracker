@@ -12,3 +12,5 @@ if airport in airports:
 else:
     print("Airport not found. Please try again.")
 
+for code in airports:
+    print(code)
